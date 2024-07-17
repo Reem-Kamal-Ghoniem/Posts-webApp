@@ -9,9 +9,7 @@ A simple React application for displaying blog posts fetched from a public API, 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 <p align="center">
