@@ -15,11 +15,11 @@ A simple React application for displaying blog posts fetched from a public API, 
 
 ## Demo
 <p align="center">
-  <img src="/assets/1.png" alt="Main Page Screenshot" />
+  <img src="/Assets/1.png" alt="Main Page Screenshot" />
 </p>
 
 <p align="center">
-  <img src="/assets/2.png" alt="Post Details Screenshot" />
+  <img src="/Assets/2.png" alt="Post Details Screenshot" />
 </p>
 
 ## Features
