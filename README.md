@@ -14,9 +14,13 @@ A simple React application for displaying blog posts fetched from a public API, 
 - [License](#license)
 
 ## Demo
-![Project Screenshot](./assets/1.png)
-![Project Screenshot](./assets/2.png)
+<p align="center">
+  <img src="./react-posts-app/assets/1.png" alt="My Project Screenshot" />
+</p>
 
+<p align="center">
+  <img src="./react-posts-app/assets/2.png" alt="My Project Screenshot" />
+</p>
 
 ## Features
 
@@ -48,8 +52,9 @@ To run this project locally, follow these steps:
 
     ```bash
     API_URL = https://jsonplaceholder.typicode.com/
-    Replace https://jsonplaceholder.typicode.com with your API URL if using a different one.
-    You can change it in the config.js file
+
+- Replace https://jsonplaceholder.typicode.com with your API URL if using a different one.
+- You can change it in the config.js file
 
 4. Start the development server:
     ```bash
@@ -63,5 +68,5 @@ To run this project locally, follow these steps:
 3. the list of posts apperas as a sidebar, you can navigate through them using the pagination below the bar.
 
 ## Technologies Used
--React
--Axios
+- React
+- Axios
