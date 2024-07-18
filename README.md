@@ -12,6 +12,7 @@ A simple React application for displaying blog posts fetched from a public API, 
 
 
 ## Demo
+
 <p align="center">
   <img src="/Assets/1.PNG" alt="Main Page Screenshot" />
 </p>
@@ -38,23 +39,23 @@ To run this project locally, follow these steps:
    git clone https://github.com/Reem-Kamal-Ghoniem/Posts-webApp.git
    cd react-posts-app
 
-
 2. Install dependencies:
     ```bash
     npm install
 
-    Be patient it takes about 2min to start.
+Be patient it takes about 2min to start.
+
 3. Set up environment variables:
 
-    Create a .env file in the root directory and add the following:
+- Change the config.js file
 
     ```bash
-    API_URL = https://jsonplaceholder.typicode.com/
+    API_URL = 'https://jsonplaceholder.typicode.com/';
 
 - Replace https://jsonplaceholder.typicode.com with your API URL if using a different one.
-- You can change it in the config.js file
 
 4. Start the development server:
+
     ```bash
     npm start
 5. Open your browser and visit http://localhost:3000 to view the app.
